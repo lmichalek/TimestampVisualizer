@@ -1,0 +1,76 @@
+total 2657
+drwxrwxrwx   4 root   root     2048 09/20/2011 14:10:58 acs
+drwxrwxrwx  12 root   root     2048 02/08/2012 11:01:53 andy
+drwxrwxrwx   7 root   root     2048 03/10/2009 11:31:13 as
+-rw-r--r--   1  27773 wheel      22 10/16/1995 19:45:18 cds.afs.proxy
+drwxrwxrwx   2 root   root     2048 06/24/2008 18:32:41 cert
+drwxrwxrwx   2 root   root     2048 06/20/2005 17:10:24 cfa
+drwxrwxrwx   2 root   root     2048 02/29/2012 19:09:45 cit
+drwxrwxrwx  12 root   root     2048 01/07/2011 10:29:39 class
+drwxrwxrwx   2 root   root     2048 06/29/2006 17:40:46 cmap
+drwxrwxrwx   2 andrew root     2048 06/07/2006 08:20:23 common
+drwxrwxrwx   3 root   root     8192 02/16/1999 18:12:53 course
+drwxrwxrwx   2 root   root     2048 04/29/2008 18:23:16 cylab
+drwxrwxrwx   6 root   root     2048 07/11/2005 14:58:00 data
+lrwxr-xr-x   1  32019 root        4 05/03/2004 14:46:05 data-andrew -> data
+lrwxr-xr-x   1  32019 root       11 05/12/2004 15:19:07 data-campus -> data-andrew
+drwxr-xr-x 100 root   root     4096 12/31/1969 19:00:00 data-qatar
+drwxrwxrwx   3 root   root     2048 02/27/2012 10:09:28 eberly
+drwxrwxrwx   2 root   root     2048 05/23/2006 14:10:53 fac-senate
+drwxrwxrwx  10 root   root     8192 07/01/2010 09:35:47 gsia
+drwxrwxrwx   2 root   root     2048 08/25/2004 15:04:46 hcii
+drwxrwxrwx   2 root   root     4096 07/13/2010 11:46:40 heinz
+drwxrwxrwx   2 root   root     2048 08/25/2004 16:49:02 hss
+drwxrwxrwx   3 root   root     2048 03/24/2006 00:37:30 i386_fc3
+drwxrwxrwx   3 root   root     2048 03/28/2003 14:32:26 i386_rh80
+drwxrwxrwx   2 root   root     2048 05/29/2007 12:04:05 ices
+drwxrwxrwx   2 root   root     2048 08/08/2008 18:02:21 icti
+-rw-r--r--   1  36918 wheel       0 02/03/2006 15:31:21 index.html
+lrwxr-xr-x   1  16690 root        4 02/22/1993 18:17:54 ini -> inst
+drwxrwxrwx   2 root   root     2048 09/24/2004 13:12:23 inst
+drwxrwxrwx   2 root   root     2048 05/27/2009 18:43:40 isri
+lrwxr-xr-x   1  16690 root       27 02/22/1993 18:18:13 itc -> /afs/cs.cmu.edu/project/itc
+drwxrwxrwx  16 root   root     2048 07/30/1998 16:46:03 libauto
+drwxrwxrwx   5 root   root     2048 08/25/2004 18:50:37 library
+drwxrwxrwx   2 root   root     2048 08/26/2004 12:49:42 mcs
+drwxrwxrwx   2 root   root    10240 03/08/2012 16:58:01 org
+drwxrwxrwx   3 root   root     2048 02/21/2012 17:13:44 ote
+drwxrwxrwx   2 root   root     2048 01/26/2012 11:19:32 restore
+drwxrwxrwx   2 root   root     2048 12/11/2008 18:47:48 scs
+drwxrwxrwx   3 cdc    root     4096 08/16/2011 11:55:00 service
+lrwxr-xr-x   1  16690 root        8 02/22/1993 18:22:50 stat -> hss/stat
+drwxrwxrwx   2 root   root     2048 04/14/1998 17:06:54 sun4x_56
+drwxrwxrwx   3 root   root     2048 09/21/2000 15:34:10 sun4x_57
+drwxrwxrwx   3 root   root     2048 06/14/2001 20:57:18 sun4x_58
+drwxrwxrwx   5 root   root     2048 07/26/2006 13:57:02 sun4x_s10
+lrwxr-xr-x   1  16690 root        5 02/22/1993 18:21:34 supa -> heinz
+drwxr-xr-x  11 root   root     4096 07/26/2009 00:31:14 system
+drwxrwxrwx   2 root   root     2048 05/10/2011 15:20:49 tepper
+drwxr-xr-x   2 root   root  1259520 03/25/2012 00:10:19 usr
+drwxr-xr-x   2 andrew root    65536 03/13/2012 00:08:25 usr0
+drwxr-xr-x   2 andrew root    51200 03/24/2012 00:10:30 usr1
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:19:51 usr10
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:15:13 usr11
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:18:55 usr12
+drwxr-xr-x   2 uks    root    51200 03/25/2012 00:09:34 usr13
+drwxr-xr-x   2 andrew root    53248 03/24/2012 03:18:47 usr14
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:14:23 usr15
+drwxr-xr-x   2 andrew root    51200 03/25/2012 00:09:23 usr16
+drwxr-xr-x   2 andrew root    51200 03/25/2012 00:09:56 usr17
+drwxr-xr-x   2 andrew root    53248 03/23/2012 03:38:46 usr18
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:16:18 usr19
+drwxr-xr-x   2 andrew root    51200 03/24/2012 00:11:02 usr2
+drwxr-xr-x   2 andrew root    51200 03/20/2012 03:20:00 usr20
+drwxr-xr-x   2 andrew root    53248 03/23/2012 03:31:34 usr21
+drwxr-xr-x   2 andrew root    53248 03/23/2012 03:30:15 usr22
+drwxr-xr-x   2 andrew root    53248 03/24/2012 03:16:21 usr23
+drwxr-xr-x   2 andrew root    51200 03/22/2012 03:32:27 usr24
+drwxr-xr-x   2 andrew root    28672 02/24/2012 00:08:53 usr25
+drwxr-xr-x   2 andrew root    51200 03/24/2012 03:17:47 usr3
+drwxr-xr-x   2 andrew root    53248 03/23/2012 03:37:45 usr4
+drwxr-xr-x   2 andrew root    53248 03/22/2012 03:28:03 usr5
+drwxr-xr-x   2 andrew root    51200 03/25/2012 00:09:25 usr6
+drwxr-xr-x   2 andrew root    53248 03/25/2012 00:10:19 usr7
+drwxr-xr-x   2 andrew root    51200 03/21/2012 03:38:10 usr8
+drwxr-xr-x   2 andrew root    53248 03/24/2012 00:11:54 usr9
+drwxrwxrwx   2 cdc    root     4096 09/24/2008 22:50:11 wsadmin

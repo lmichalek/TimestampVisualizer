@@ -1,0 +1,770 @@
+.:
+total 2
+2 drwxr-xr-x 21 lmichale wheel 2048 08/26/2010 16:03:05 completed
+
+./completed:
+total 38
+2 drwxr-xr-x 2 lmichale wheel 2048 09/09/2010 12:28:05 completed-lab-1
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-10
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-11
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-12
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:06 completed-lab-13
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:02:59 completed-lab-2
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:00 completed-lab-3
+2 drwxr-xr-x 2 lmichale wheel 2048 09/09/2010 11:19:28 completed-lab-4
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:04 completed-lab-5
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:04 completed-lab-6
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-7
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-8
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 completed-lab-9
+2 drwxr-xr-x 3 lmichale wheel 2048 08/26/2010 16:03:03 completed-quiz-1
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:02:59 completed-quiz-2
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:04 completed-quiz-3
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:04 completed-quiz-4
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:04 completed-quiz-5
+2 drwxr-xr-x 3 lmichale wheel 2048 08/26/2010 16:03:05 completed-quiz-6
+
+./completed/completed-lab-1:
+total 34
+ 8 -rwxr-xr-x 1 lmichale wheel  7946 09/09/2010 11:35:58 a.out
+19 -rw-r--r-- 1 lmichale wheel 19174 09/09/2010 12:28:05 disassembled.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1799 08/26/2010 16:03:00 lab1.c
+ 1 -rw-r--r-- 1 lmichale wheel   372 08/26/2010 16:03:00 sine-1.dat
+ 1 -rw-r--r-- 1 lmichale wheel   943 08/26/2010 16:03:00 sine-1.txt
+ 1 -rw-r--r-- 1 lmichale wheel   324 08/26/2010 16:03:00 sine-2.dat
+ 1 -rw-r--r-- 1 lmichale wheel   836 08/26/2010 16:03:00 sine-2.txt
+ 1 -rw-r--r-- 1 lmichale wheel   923 08/26/2010 16:03:00 txt2bin.c
+
+./completed/completed-lab-10:
+total 3
+2 -rwxr-xr-x 1 lmichale wheel 1877 08/26/2010 16:03:05 autoFlunkaTron.sh
+1 -rw-r--r-- 1 lmichale wheel  402 08/26/2010 16:03:05 correct-gradefile.txt
+
+./completed/completed-lab-11:
+total 7
+1 -rw-r--r-- 1 lmichale wheel  154 08/26/2010 16:03:05 correct-out.txt
+1 -rw-r--r-- 1 lmichale wheel  146 08/26/2010 16:03:05 input1.s
+1 -rw-r--r-- 1 lmichale wheel  695 08/26/2010 16:03:05 input2.s
+3 -rwxr--r-- 1 lmichale wheel 2265 08/26/2010 16:03:05 lab-11.pl
+1 -rw-r--r-- 1 lmichale wheel  154 08/26/2010 16:03:05 out.txt
+
+./completed/completed-lab-12:
+total 15
+10 -rw-r--r-- 1 lmichale wheel 9693 08/26/2010 16:03:05 lab-12.c
+ 3 -rw-r--r-- 1 lmichale wheel 2318 08/26/2010 16:03:05 pseudo-code.c
+ 2 -rw-r--r-- 1 lmichale wheel 1615 08/26/2010 16:03:05 q.c
+
+./completed/completed-lab-13:
+total 513
+  2 -rw-r--r-- 1 lmichale wheel   1032 08/26/2010 16:03:06 100-words.txt
+395 -rw-r--r-- 1 lmichale wheel 403997 08/26/2010 16:03:05 40000-words.txt
+ 50 -rw-r--r-- 1 lmichale wheel  50621 08/26/2010 16:03:06 5000-words.txt
+  6 -rw-r--r-- 1 lmichale wheel   5297 08/26/2010 16:03:06 getline.c
+  2 -rw-r--r-- 1 lmichale wheel   1030 08/26/2010 16:03:06 getline.h
+  1 -rw-r--r-- 1 lmichale wheel   1010 08/26/2010 16:03:06 getopt-demo.c
+  4 -rw-r--r-- 1 lmichale wheel   3090 08/26/2010 16:03:06 hashFunctions.c
+  2 -rw-r--r-- 1 lmichale wheel   1732 08/26/2010 16:03:06 hashStrings.c
+  3 -rw-r--r-- 1 lmichale wheel   2966 08/26/2010 16:03:06 hashStudents.c
+  8 -rw-r--r-- 1 lmichale wheel   7669 08/26/2010 16:03:06 hashtable.c
+  2 -rw-r--r-- 1 lmichale wheel   1969 08/26/2010 16:03:06 hashtable.h
+  1 -rwxr--r-- 1 lmichale wheel    973 08/26/2010 16:03:06 Lab-13.pl
+  1 -rw-r--r-- 1 lmichale wheel    380 08/26/2010 16:03:06 Makefile
+ 15 -rwxr-xr-x 1 lmichale wheel  15059 08/26/2010 16:03:06 stringHash.exe
+ 16 -rwxr-xr-x 1 lmichale wheel  15622 08/26/2010 16:03:06 studentHash.exe
+  5 -rw-r--r-- 1 lmichale wheel   4790 08/26/2010 16:03:06 students.txt
+
+./completed/completed-lab-2:
+total 344
+287 -rw-r--r-- 1 lmichale wheel 292917 08/26/2010 16:02:59 29000-words.txt
+ 50 -rw-r--r-- 1 lmichale wheel  50621 08/26/2010 16:02:59 5000-words.txt
+  7 -rw-r--r-- 1 lmichale wheel   6232 08/26/2010 16:02:59 lab2.c
+
+./completed/completed-lab-3:
+total 4497
+   2 -rw-r--r-- 1 lmichale wheel    1030 08/26/2010 16:02:59 100-words.txt
+   2 -rw-r--r-- 1 lmichale wheel    1093 08/26/2010 16:02:59 105-words.txt
+   1 -rw-r--r-- 1 lmichale wheel      49 08/26/2010 16:02:59 10-words.txt
+1703 -rw-r--r-- 1 lmichale wheel 1743354 08/26/2010 16:02:59 172822-words.txt
+2753 -rw-r--r-- 1 lmichale wheel 2818781 08/26/2010 16:03:00 255675-words.txt
+   1 -rw-r--r-- 1 lmichale wheel     525 08/26/2010 16:03:00 50-words.txt
+  15 -rwxr-xr-x 1 lmichale wheel   14977 08/26/2010 16:03:00 a.out
+   6 -rw-r--r-- 1 lmichale wheel    5297 08/26/2010 16:03:00 getline.c
+   2 -rw-r--r-- 1 lmichale wheel    1030 08/26/2010 16:03:00 getline.h
+   1 -rw-r--r-- 1 lmichale wheel     674 08/26/2010 16:03:00 lab-03.h
+   6 -rw-r--r-- 1 lmichale wheel    5787 08/26/2010 16:03:00 lab-03-lib.c
+   2 -rw-r--r-- 1 lmichale wheel    1063 08/26/2010 16:03:00 lab-03-main.c
+   1 -rw-r--r-- 1 lmichale wheel     244 08/26/2010 16:03:00 makefile
+   2 -rw-r--r-- 1 lmichale wheel    1043 08/26/2010 16:03:00 out.txt
+
+./completed/completed-lab-4:
+total 38
+ 1 -rw-r--r-- 1 lmichale wheel  1012 08/26/2010 16:03:04 100-words.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1093 08/26/2010 16:03:04 105-words.txt
+ 1 -rw-r--r-- 1 lmichale wheel    49 08/26/2010 16:03:04 10-words.txt
+15 -rwxr-xr-x 1 lmichale wheel 15069 09/09/2010 11:18:52 a.out
+ 6 -rw-r--r-- 1 lmichale wheel  5297 08/26/2010 16:03:04 getline.c
+ 2 -rw-r--r-- 1 lmichale wheel  1030 08/26/2010 16:03:04 getline.h
+ 1 -rw-r--r-- 1 lmichale wheel   687 08/26/2010 16:03:04 lab-04.h
+ 7 -rw-r--r-- 1 lmichale wheel  6307 08/26/2010 16:03:04 lab-04-lib.c
+ 1 -rw-r--r-- 1 lmichale wheel   915 08/26/2010 16:03:04 lab-04-main.c
+ 1 -rw-r--r-- 1 lmichale wheel   248 08/26/2010 16:03:04 makefile
+ 1 -rw-r--r-- 1 lmichale wheel    49 09/09/2010 11:35:37 out.txt
+
+./completed/completed-lab-5:
+total 37
+ 2 -rw-r--r-- 1 lmichale wheel  1371 08/26/2010 16:03:04 binaryPrint.c
+ 2 -rwxr-xr-x 1 lmichale wheel  1574 08/26/2010 16:03:04 convert-output-to-sorted.pl
+ 1 -rw-r--r-- 1 lmichale wheel    52 08/26/2010 16:03:04 input-1.txt
+ 1 -rw-r--r-- 1 lmichale wheel    46 08/26/2010 16:03:04 input-2.txt
+ 1 -rw-r--r-- 1 lmichale wheel    42 08/26/2010 16:03:04 input-3.txt
+ 6 -rw-r--r-- 1 lmichale wheel  5433 08/26/2010 16:03:04 out.txt
+ 6 -rw-r--r-- 1 lmichale wheel  5218 08/26/2010 16:03:04 sorted-correct-output-1.txt
+ 7 -rw-r--r-- 1 lmichale wheel  6224 08/26/2010 16:03:04 sorted-correct-output-2.txt
+11 -rw-r--r-- 1 lmichale wheel 10571 08/26/2010 16:03:04 sorted-correct-output-3.txt
+
+./completed/completed-lab-6:
+total 8
+1 -rw-r--r-- 1 lmichale wheel  279 08/26/2010 16:03:04 correct-compr-sine-1.bin
+1 -rw-r--r-- 1 lmichale wheel  243 08/26/2010 16:03:04 correct-compr-sine-2.bin
+3 -rw-r--r-- 1 lmichale wheel 2052 08/26/2010 16:03:04 lab-06.c
+1 -rw-r--r-- 1 lmichale wheel  279 08/26/2010 16:03:04 out.txt
+1 -rw-r--r-- 1 lmichale wheel  943 08/26/2010 16:03:04 sine-1.txt
+1 -rw-r--r-- 1 lmichale wheel  836 08/26/2010 16:03:04 sine-2.txt
+
+./completed/completed-lab-7:
+total 67
+ 4 -rw-r--r-- 1 lmichale wheel  3697 08/26/2010 16:03:05 cdll.c
+ 5 -rw-r--r-- 1 lmichale wheel  4903 08/26/2010 16:03:05 cdll.h
+ 6 -rw-r--r-- 1 lmichale wheel  5297 08/26/2010 16:03:05 getline.c
+ 2 -rw-r--r-- 1 lmichale wheel  1030 08/26/2010 16:03:05 getline.h
+ 4 -rw-r--r-- 1 lmichale wheel  4051 08/26/2010 16:03:05 int-Josephus.c
+14 -rwxr-xr-x 1 lmichale wheel 13370 08/26/2010 16:03:05 int-Josephus-solution.exe
+ 1 -rw-r--r-- 1 lmichale wheel    72 08/26/2010 16:03:05 names.txt
+ 4 -rw-r--r-- 1 lmichale wheel  3351 08/26/2010 16:03:05 string-Josephus.c
+10 -rwxr-xr-x 1 lmichale wheel  9759 08/26/2010 16:03:05 string-Josephus-solution.exe
+ 5 -rw-r--r-- 1 lmichale wheel  4702 08/26/2010 16:03:05 student-Josephus.c
+11 -rwxr-xr-x 1 lmichale wheel 10857 08/26/2010 16:03:05 student-Josephus-solution.exe
+ 1 -rw-r--r-- 1 lmichale wheel   192 08/26/2010 16:03:05 students.txt
+
+./completed/completed-lab-8:
+total 1708
+1703 -rw-r--r-- 1 lmichale wheel 1743354 08/26/2010 16:03:05 dictionary.txt
+   1 -rw-r--r-- 1 lmichale wheel     325 08/26/2010 16:03:05 jumbles.txt
+   2 -rwxr--r-- 1 lmichale wheel    1410 08/26/2010 16:03:05 lab-08.pl
+   1 -rw-r--r-- 1 lmichale wheel     737 08/26/2010 16:03:05 out.txt
+   1 -rw-r--r-- 1 lmichale wheel     736 08/26/2010 16:03:05 sol.txt
+
+./completed/completed-lab-9:
+total 2
+2 -rwxr--r-- 1 lmichale wheel 1997 08/26/2010 16:03:05 lab-09.pl
+
+./completed/completed-quiz-1:
+total 2896
+   2 drwxr-xr-x 3 lmichale wheel    2048 08/26/2010 16:03:01 quiz-1-folder
+2893 -rw-r--r-- 1 lmichale wheel 2961797 08/26/2010 16:03:03 quiz-1-folder.tar.gz
+   1 -rw-r--r-- 1 lmichale wheel     473 08/26/2010 16:03:03 quiz-1.txt
+
+./completed/completed-quiz-1/quiz-1-folder:
+total 29
+1 -rw-r--r--  1 lmichale wheel  274 08/26/2010 16:03:00 args.c
+3 -rw-r--r--  1 lmichale wheel 2723 08/26/2010 16:03:00 arraySolution.c
+1 -rw-r--r--  1 lmichale wheel  527 08/26/2010 16:03:00 fgets.c.txt
+1 -rw-r--r--  1 lmichale wheel  639 08/26/2010 16:03:00 fscanf.c
+6 -rw-r--r--  1 lmichale wheel 5297 08/26/2010 16:03:01 getline.c
+2 -rw-r--r--  1 lmichale wheel 1030 08/26/2010 16:03:01 getline.h
+1 -rw-r--r--  1 lmichale wheel  804 08/26/2010 16:03:01 gline.c
+1 -rw-r--r--  1 lmichale wheel  147 08/26/2010 16:03:01 illegal-1.c
+6 -rw-r--r--  1 lmichale wheel 5228 08/26/2010 16:03:00 Lab2.c
+1 -rw-r--r--  1 lmichale wheel  335 08/26/2010 16:03:01 mystery.c
+2 drwxr-xr-x 19 lmichale wheel 2048 08/26/2010 16:03:03 old-java-stuff
+1 -rw-r--r--  1 lmichale wheel  227 08/26/2010 16:03:01 string-constant.c
+1 -rw-r--r--  1 lmichale wheel  255 08/26/2010 16:03:01 string-var-1.c
+1 -rw-r--r--  1 lmichale wheel  274 08/26/2010 16:03:01 string-var-2.c
+1 -rw-r--r--  1 lmichale wheel  263 08/26/2010 16:03:01 strray-const-1.c
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff:
+total 46
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:01 15100-review
+2 drwxr-xr-x  5 lmichale wheel 2048 08/26/2010 16:03:01 15100-review-exercises
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:01 Applets-1
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:01 arrays
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:01 BST-1
+2 drwxr-xr-x  3 lmichale wheel 2048 08/26/2010 16:03:01 CC-1
+2 drwxr-xr-x  3 lmichale wheel 2048 08/26/2010 16:03:02 CC-2
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 CC-3
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 CC-4
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 CC-5
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 classes
+2 -rw-r--r--  1 lmichale wheel 1354 08/26/2010 16:03:02 dancing.gif
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 dfs-backtracking-1
+2 drwxr-xr-x  2 lmichale wheel 2048 08/26/2010 16:03:02 Exceptions
+1 -rw-r--r--  1 lmichale wheel  251 08/26/2010 16:03:02 index.html
+2 drwxr-xr-x  3 lmichale wheel 2048 08/26/2010 16:03:02 Inheritence
+7 -rw-r--r--  1 lmichale wheel 6734 08/26/2010 16:03:03 labHours-200.html
+2 drwxr-xr-x 10 lmichale wheel 2048 08/26/2010 16:03:03 labs
+2 drwxr-xr-x  6 lmichale wheel 2048 08/26/2010 16:03:02 L-Lists-1
+2 drwxr-xr-x  6 lmichale wheel 2048 08/26/2010 16:03:03 L-Lists-2
+2 -rw-r--r--  1 lmichale wheel 1163 08/26/2010 16:03:03 menu.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/15100-review:
+total 241
+49 -rw-r--r-- 1 lmichale wheel 50176 08/26/2010 16:03:01 blockScope.ppt
+73 -rw-r--r-- 1 lmichale wheel 74752 08/26/2010 16:03:01 booleans.ppt
+ 1 -rw-r--r-- 1 lmichale wheel   968 08/26/2010 16:03:01 index.html
+ 2 -rw-r--r-- 1 lmichale wheel  1495 08/26/2010 16:03:01 KeyboardIO.java.txt
+50 -rw-r--r-- 1 lmichale wheel 50688 08/26/2010 16:03:01 varsOperators.ppt
+59 -rw-r--r-- 1 lmichale wheel 59904 08/26/2010 16:03:01 whileLoops.ppt
+ 7 -rw-r--r-- 1 lmichale wheel  6646 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/15100-review-exercises:
+total 16
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:01 Arrays
+7 -rw-r--r-- 1 lmichale wheel 6606 08/26/2010 16:03:01 index.html
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:01 Loops-IO
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:01 Strings
+3 -rw-r--r-- 1 lmichale wheel 2145 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/15100-review-exercises/Arrays:
+total 33
+ 1 -rw-r--r-- 1 lmichale wheel   624 08/26/2010 16:03:01 Exercise1.java.txt
+ 3 -rw-r--r-- 1 lmichale wheel  2155 08/26/2010 16:03:01 Exercise2.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1538 08/26/2010 16:03:01 Exercise3.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1127 08/26/2010 16:03:01 Solution1.class
+ 2 -rw-r--r-- 1 lmichale wheel  1985 08/26/2010 16:03:01 Solution1.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1415 08/26/2010 16:03:01 Solution2.class
+ 3 -rw-r--r-- 1 lmichale wheel  2051 08/26/2010 16:03:01 Solution2.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1261 08/26/2010 16:03:01 Solution3.class
+ 2 -rw-r--r-- 1 lmichale wheel  1829 08/26/2010 16:03:01 Solution3.java.txt
+14 -rw-r--r-- 1 lmichale wheel 14042 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/15100-review-exercises/Loops-IO:
+total 43
+ 2 -rw-r--r-- 1 lmichale wheel  1210 08/26/2010 16:03:01 Exercise1.java.txt
+ 1 -rw-r--r-- 1 lmichale wheel   918 08/26/2010 16:03:01 Exercise2.java.txt
+ 3 -rw-r--r-- 1 lmichale wheel  2095 08/26/2010 16:03:01 Exercise4.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1299 08/26/2010 16:03:01 Practice.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1280 08/26/2010 16:03:01 Solution1.class
+ 2 -rw-r--r-- 1 lmichale wheel  1088 08/26/2010 16:03:01 Solution1.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1135 08/26/2010 16:03:01 Solution2.class
+ 1 -rw-r--r-- 1 lmichale wheel   991 08/26/2010 16:03:01 Solution2.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1184 08/26/2010 16:03:01 Solution3.class
+ 3 -rw-r--r-- 1 lmichale wheel  2210 08/26/2010 16:03:01 Solution3.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1197 08/26/2010 16:03:01 Solution4.class
+ 3 -rw-r--r-- 1 lmichale wheel  2190 08/26/2010 16:03:01 Solution4.java.txt
+18 -rw-r--r-- 1 lmichale wheel 18072 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/15100-review-exercises/Strings:
+total 38
+ 1 -rw-r--r-- 1 lmichale wheel   962 08/26/2010 16:03:01 Exercise1.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1318 08/26/2010 16:03:01 Exercise2.java.txt
+ 3 -rw-r--r-- 1 lmichale wheel  2081 08/26/2010 16:03:01 Exercise3.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1299 08/26/2010 16:03:01 Practice.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1428 08/26/2010 16:03:01 rotationUsingStringBuffer.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1138 08/26/2010 16:03:01 Solution1.class
+ 2 -rw-r--r-- 1 lmichale wheel  1183 08/26/2010 16:03:01 Solution1.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1397 08/26/2010 16:03:01 Solution2.class
+ 2 -rw-r--r-- 1 lmichale wheel  1843 08/26/2010 16:03:01 Solution2.java.txt
+ 3 -rw-r--r-- 1 lmichale wheel  2210 08/26/2010 16:03:01 Solution3.java.txt
+17 -rw-r--r-- 1 lmichale wheel 17282 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/Applets-1:
+total 133
+29 -rw-r--r-- 1 lmichale wheel 29160 08/26/2010 16:03:01 Applets.zip
+ 1 -rw-r--r-- 1 lmichale wheel   208 08/26/2010 16:03:01 Child.java
+ 3 -rw-r--r-- 1 lmichale wheel  2252 08/26/2010 16:03:01 EtchSketch.class
+ 1 -rw-r--r-- 1 lmichale wheel   285 08/26/2010 16:03:01 EtchSketch.html
+ 2 -rw-r--r-- 1 lmichale wheel  1840 08/26/2010 16:03:01 EtchSketch.java
+ 2 -rw-r--r-- 1 lmichale wheel  1152 08/26/2010 16:03:01 FirstEvent.class
+ 1 -rw-r--r-- 1 lmichale wheel   230 08/26/2010 16:03:01 FirstEvent.html
+ 1 -rw-r--r-- 1 lmichale wheel   687 08/26/2010 16:03:01 FirstEvent.java
+26 -rw-r--r-- 1 lmichale wheel 25799 08/26/2010 16:03:01 index.html
+ 1 -rw-r--r-- 1 lmichale wheel   388 08/26/2010 16:03:01 JApplet0.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet0.html
+ 1 -rw-r--r-- 1 lmichale wheel   514 08/26/2010 16:03:01 JApplet0.java
+ 1 -rw-r--r-- 1 lmichale wheel   557 08/26/2010 16:03:01 JApplet1.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet1.html
+ 2 -rw-r--r-- 1 lmichale wheel  1064 08/26/2010 16:03:01 JApplet1.java
+ 1 -rw-r--r-- 1 lmichale wheel   843 08/26/2010 16:03:01 JApplet2.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet2.html
+ 3 -rw-r--r-- 1 lmichale wheel  2266 08/26/2010 16:03:01 JApplet2.java
+ 1 -rw-r--r-- 1 lmichale wheel   612 08/26/2010 16:03:01 JApplet3.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet3.html
+ 1 -rw-r--r-- 1 lmichale wheel   719 08/26/2010 16:03:01 JApplet3.java
+ 1 -rw-r--r-- 1 lmichale wheel   147 08/26/2010 16:03:01 JApplet4$1.class
+ 2 -rw-r--r-- 1 lmichale wheel  1858 08/26/2010 16:03:01 JApplet4.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet4.html
+ 4 -rw-r--r-- 1 lmichale wheel  3255 08/26/2010 16:03:01 JApplet4.java
+ 2 -rw-r--r-- 1 lmichale wheel  1198 08/26/2010 16:03:01 JApplet4$myJButtonHandler.class
+ 1 -rw-r--r-- 1 lmichale wheel   147 08/26/2010 16:03:01 JApplet5$1.class
+ 3 -rw-r--r-- 1 lmichale wheel  2783 08/26/2010 16:03:01 JApplet5.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet5.html
+ 5 -rw-r--r-- 1 lmichale wheel  4346 08/26/2010 16:03:01 JApplet5.java
+ 2 -rw-r--r-- 1 lmichale wheel  1621 08/26/2010 16:03:01 JApplet5$MyJButtonHandler.class
+ 1 -rw-r--r-- 1 lmichale wheel   147 08/26/2010 16:03:01 JApplet6$1.class
+ 2 -rw-r--r-- 1 lmichale wheel  1378 08/26/2010 16:03:01 JApplet6.class
+ 1 -rw-r--r-- 1 lmichale wheel   158 08/26/2010 16:03:01 JApplet6.html
+ 2 -rw-r--r-- 1 lmichale wheel  1624 08/26/2010 16:03:01 JApplet6.java
+ 2 -rw-r--r-- 1 lmichale wheel  1119 08/26/2010 16:03:01 JApplet6$MyScrollBarHandler.class
+ 1 -rw-r--r-- 1 lmichale wheel  1006 08/26/2010 16:03:01 Methods.txt
+ 4 -rw-r--r-- 1 lmichale wheel  3670 08/26/2010 16:03:01 RacingBalls.java
+17 -rw-r--r-- 1 lmichale wheel 17256 08/26/2010 16:03:01 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/arrays:
+total 8
+1 -rw-r--r-- 1 lmichale wheel  637 08/26/2010 16:03:01 argsDemo1.java.txt
+3 -rw-r--r-- 1 lmichale wheel 2082 08/26/2010 16:03:01 arrDemo1.java.txt
+2 -rw-r--r-- 1 lmichale wheel 1381 08/26/2010 16:03:01 index.html
+2 -rw-r--r-- 1 lmichale wheel 1104 08/26/2010 16:03:01 randDemo1.java.txt
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/BST-1:
+total 7
+4 -rw-r--r-- 1 lmichale wheel 4070 08/26/2010 16:03:01 index.html
+1 -rw-r--r-- 1 lmichale wheel  477 08/26/2010 16:03:01 Node.java
+2 -rw-r--r-- 1 lmichale wheel 1433 08/26/2010 16:03:01 Tree.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1:
+total 47
+ 2 drwxr-xr-x 4 lmichale wheel  2048 08/26/2010 16:03:01 CC
+32 -rw-r--r-- 1 lmichale wheel 32335 08/26/2010 16:03:01 CC.zip
+ 3 -rw-r--r-- 1 lmichale wheel  2553 08/26/2010 16:03:01 Exercise1.java
+ 3 -rw-r--r-- 1 lmichale wheel  2790 08/26/2010 16:03:01 Exercise2.java
+ 1 -rw-r--r-- 1 lmichale wheel   726 08/26/2010 16:03:01 index.html
+ 3 -rw-r--r-- 1 lmichale wheel  2470 08/26/2010 16:03:01 Solution1.java
+ 3 -rw-r--r-- 1 lmichale wheel  2791 08/26/2010 16:03:01 Solution2.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1/CC:
+total 25
+2 drwxr-xr-x 4 lmichale wheel 2048 08/26/2010 16:03:01 introExam
+4 -rw-r--r-- 1 lmichale wheel 3495 08/26/2010 16:03:01 overview.html
+6 -rw-r--r-- 1 lmichale wheel 5917 08/26/2010 16:03:01 problem statement.html
+1 -rw-r--r-- 1 lmichale wheel   24 08/26/2010 16:03:01 sentence.txt
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:01 Solution
+1 -rw-r--r-- 1 lmichale wheel  113 08/26/2010 16:03:01 substitutions.txt
+3 -rw-r--r-- 1 lmichale wheel 2630 08/26/2010 16:03:01 Test.class
+6 -rw-r--r-- 1 lmichale wheel 5147 08/26/2010 16:03:01 Test.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1/CC/introExam:
+total 44
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:01 BinarySearchTree
+36 -rw-r--r-- 1 lmichale wheel 36290 08/26/2010 16:03:01 cs151xx.library.jar
+ 1 -rw-r--r-- 1 lmichale wheel   529 08/26/2010 16:03:01 ExamIO.class
+ 1 -rw-r--r-- 1 lmichale wheel  1013 08/26/2010 16:03:01 ExamIO$IOIterator.class
+ 2 -rw-r--r-- 1 lmichale wheel  1785 08/26/2010 16:03:01 ExamIO.java
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:01 LinkedList
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1/CC/introExam/BinarySearchTree:
+total 10
+2 -rw-r--r-- 1 lmichale wheel 1578 08/26/2010 16:03:01 BST$BSTNode.class
+3 -rw-r--r-- 1 lmichale wheel 2168 08/26/2010 16:03:01 BST.class
+5 -rw-r--r-- 1 lmichale wheel 5007 08/26/2010 16:03:01 BST.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1/CC/introExam/LinkedList:
+total 8
+2 -rw-r--r-- 1 lmichale wheel 1452 08/26/2010 16:03:01 LL.class
+4 -rw-r--r-- 1 lmichale wheel 3614 08/26/2010 16:03:01 LL.java
+2 -rw-r--r-- 1 lmichale wheel 1227 08/26/2010 16:03:01 LL$LLNode.class
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-1/CC/Solution:
+total 6
+6 -rw-r--r-- 1 lmichale wheel 5768 08/26/2010 16:03:01 Test.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2:
+total 32
+ 2 drwxr-xr-x 4 lmichale wheel  2048 08/26/2010 16:03:02 CC-2
+28 -rw-r--r-- 1 lmichale wheel 27803 08/26/2010 16:03:02 CC-2.zip
+ 2 -rw-r--r-- 1 lmichale wheel  1040 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2/CC-2:
+total 18
+1 -rw-r--r-- 1 lmichale wheel  141 08/26/2010 16:03:01 inter.txt
+2 drwxr-xr-x 4 lmichale wheel 2048 08/26/2010 16:03:01 introExam
+4 -rw-r--r-- 1 lmichale wheel 3495 08/26/2010 16:03:01 overview.html
+1 -rw-r--r-- 1 lmichale wheel  243 08/26/2010 16:03:01 pacs.txt
+2 -rw-r--r-- 1 lmichale wheel 1325 08/26/2010 16:03:01 ProblemStatement.txt
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:01 Solution
+3 -rw-r--r-- 1 lmichale wheel 2717 08/26/2010 16:03:02 Test.class
+3 -rw-r--r-- 1 lmichale wheel 2412 08/26/2010 16:03:02 Test.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2/CC-2/introExam:
+total 44
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:01 BinarySearchTree
+36 -rw-r--r-- 1 lmichale wheel 36290 08/26/2010 16:03:01 cs151xx.library.jar
+ 1 -rw-r--r-- 1 lmichale wheel   529 08/26/2010 16:03:01 ExamIO.class
+ 1 -rw-r--r-- 1 lmichale wheel  1013 08/26/2010 16:03:01 ExamIO$IOIterator.class
+ 2 -rw-r--r-- 1 lmichale wheel  1785 08/26/2010 16:03:01 ExamIO.java
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:01 LinkedList
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2/CC-2/introExam/BinarySearchTree:
+total 10
+2 -rw-r--r-- 1 lmichale wheel 1578 08/26/2010 16:03:01 BST$BSTNode.class
+3 -rw-r--r-- 1 lmichale wheel 2168 08/26/2010 16:03:01 BST.class
+5 -rw-r--r-- 1 lmichale wheel 5007 08/26/2010 16:03:01 BST.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2/CC-2/introExam/LinkedList:
+total 8
+2 -rw-r--r-- 1 lmichale wheel 1452 08/26/2010 16:03:01 LL.class
+4 -rw-r--r-- 1 lmichale wheel 3614 08/26/2010 16:03:01 LL.java
+2 -rw-r--r-- 1 lmichale wheel 1227 08/26/2010 16:03:01 LL$LLNode.class
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-2/CC-2/Solution:
+total 3
+3 -rw-r--r-- 1 lmichale wheel 2306 08/26/2010 16:03:01 Test.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-3:
+total 32
+31 -rw-r--r-- 1 lmichale wheel 31605 08/26/2010 16:03:02 CC-3.zip
+ 1 -rw-r--r-- 1 lmichale wheel   722 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-4:
+total 19
+18 -rw-r--r-- 1 lmichale wheel 17533 08/26/2010 16:03:02 CC-4.zip
+ 1 -rw-r--r-- 1 lmichale wheel   497 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/CC-5:
+total 832
+832 -rw-r--r-- 1 lmichale wheel 851027 08/26/2010 16:03:02 Jumbles.zip
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/classes:
+total 24
+ 2 -rw-r--r-- 1 lmichale wheel  1244 08/26/2010 16:03:02 Fraction.java.txt
+22 -rw-r--r-- 1 lmichale wheel 22432 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/dfs-backtracking-1:
+total 5
+5 -rw-r--r-- 1 lmichale wheel 4258 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/Exceptions:
+total 23
+ 1 -rw-r--r-- 1 lmichale wheel   683 08/26/2010 16:03:02 Demo5.java
+ 1 -rw-r--r-- 1 lmichale wheel  1005 08/26/2010 16:03:02 ExceptionsDemo1.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1031 08/26/2010 16:03:02 ExceptionsDemo2.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1267 08/26/2010 16:03:02 ExceptionsDemo3.java.txt
+ 2 -rw-r--r-- 1 lmichale wheel  1850 08/26/2010 16:03:02 ExceptionsDemo4.java.txt
+14 -rw-r--r-- 1 lmichale wheel 13904 08/26/2010 16:03:02 index.html
+ 1 -rw-r--r-- 1 lmichale wheel    57 08/26/2010 16:03:02 input.txt
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/Inheritence:
+total 30
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:02 examples
+28 -rw-r--r-- 1 lmichale wheel 27775 08/26/2010 16:03:02 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/Inheritence/examples:
+total 59
+ 1 -rw-r--r-- 1 lmichale wheel   940 08/26/2010 16:03:02 Account.java
+ 1 -rw-r--r-- 1 lmichale wheel   265 08/26/2010 16:03:02 AccountTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   721 08/26/2010 16:03:02 AccountTransfer.java
+ 1 -rw-r--r-- 1 lmichale wheel   475 08/26/2010 16:03:02 Circle.class
+ 1 -rw-r--r-- 1 lmichale wheel   930 08/26/2010 16:03:02 DrawableCircle.class
+ 1 -rw-r--r-- 1 lmichale wheel   253 08/26/2010 16:03:02 Drawable.class
+ 1 -rw-r--r-- 1 lmichale wheel   671 08/26/2010 16:03:02 foo.class
+ 2 -rw-r--r-- 1 lmichale wheel  1435 08/26/2010 16:03:02 Fraction.java
+ 1 -rw-r--r-- 1 lmichale wheel   999 08/26/2010 16:03:02 FractionTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   613 08/26/2010 16:03:02 Futile.java
+ 1 -rw-r--r-- 1 lmichale wheel   854 08/26/2010 16:03:02 JointTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   960 08/26/2010 16:03:02 Point2D.java
+ 2 -rw-r--r-- 1 lmichale wheel  1189 08/26/2010 16:03:02 Point3D.java
+ 1 -rw-r--r-- 1 lmichale wheel   201 08/26/2010 16:03:02 PointTester.java
+ 1 -rw-r--r-- 1 lmichale wheel   746 08/26/2010 16:03:02 PolyTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   286 08/26/2010 16:03:02 Shape.class
+ 1 -rw-r--r-- 1 lmichale wheel   630 08/26/2010 16:03:02 SpecialAccountTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   468 08/26/2010 16:03:02 Square.class
+ 1 -rw-r--r-- 1 lmichale wheel   989 08/26/2010 16:03:02 StaticTest.class
+ 1 -rw-r--r-- 1 lmichale wheel   862 08/26/2010 16:03:02 StaticTest.java
+ 1 -rw-r--r-- 1 lmichale wheel   780 08/26/2010 16:03:02 TestDrawable.class
+ 2 -rw-r--r-- 1 lmichale wheel  1329 08/26/2010 16:03:02 TestDrawable.java
+ 2 -rw-r--r-- 1 lmichale wheel  1124 08/26/2010 16:03:02 TestShapes.class
+ 3 -rw-r--r-- 1 lmichale wheel  2063 08/26/2010 16:03:02 TestShapes.java
+ 1 -rw-r--r-- 1 lmichale wheel   742 08/26/2010 16:03:02 Top.class
+ 1 -rw-r--r-- 1 lmichale wheel   615 08/26/2010 16:03:02 Top.java
+ 1 -rw-r--r-- 1 lmichale wheel   782 08/26/2010 16:03:02 Top$NonStatic.class
+ 1 -rw-r--r-- 1 lmichale wheel   560 08/26/2010 16:03:02 Top$Static.class
+25 -rw-r--r-- 1 lmichale wheel 25439 08/26/2010 16:03:02 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs:
+total 16
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab0
+2 drwxr-xr-x 5 lmichale wheel 2048 08/26/2010 16:03:03 lab1
+2 drwxr-xr-x 3 lmichale wheel 2048 08/26/2010 16:03:03 lab2
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab3
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab4
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab5
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab6
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 lab7
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab0:
+total 8
+1 -rw-r--r-- 1 lmichale wheel  720 08/26/2010 16:03:03 Coin.java
+2 -rw-r--r-- 1 lmichale wheel 1479 08/26/2010 16:03:03 CoinTester.java
+5 -rw-r--r-- 1 lmichale wheel 4191 08/26/2010 16:03:03 index.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab1:
+total 61
+ 3 -rw-r--r-- 1 lmichale wheel  2388 08/26/2010 16:03:03 Exceptions.txt
+ 1 -rw-r--r-- 1 lmichale wheel    95 08/26/2010 16:03:03 graphdata.txt
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:03 graphs
+ 7 -rw-r--r-- 1 lmichale wheel  6367 08/26/2010 16:03:03 graphs1.html
+ 4 -rw-r--r-- 1 lmichale wheel  3578 08/26/2010 16:03:03 Graph.txt
+ 4 -rw-r--r-- 1 lmichale wheel  4012 08/26/2010 16:03:03 lab1help.html
+ 6 -rw-r--r-- 1 lmichale wheel  5363 08/26/2010 16:03:03 lab1.html
+ 2 -rw-r--r-- 1 lmichale wheel  1227 08/26/2010 16:03:03 Lab1.java
+ 7 -rw-r--r-- 1 lmichale wheel  6449 08/26/2010 16:03:03 lab1.zip
+ 5 -rw-r--r-- 1 lmichale wheel  4125 08/26/2010 16:03:03 Matrices.txt
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:03 solution-demo
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:03 starter-files
+ 1 -rw-r--r-- 1 lmichale wheel   749 08/26/2010 16:03:03 TrivialGraphTester.txt
+15 -rw-r--r-- 1 lmichale wheel 14971 08/26/2010 16:03:03 weightedgraph1.jpg
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab1/graphs:
+total 36
+ 1 -rw-r--r-- 1 lmichale wheel    95 08/26/2010 16:03:03 graphdata.txt
+ 7 -rw-r--r-- 1 lmichale wheel  6234 08/26/2010 16:03:03 graphs1.html
+ 1 -rw-r--r-- 1 lmichale wheel   742 08/26/2010 16:03:03 GraphTester.txt
+ 4 -rw-r--r-- 1 lmichale wheel  3276 08/26/2010 16:03:03 Graph.txt
+ 5 -rw-r--r-- 1 lmichale wheel  4125 08/26/2010 16:03:03 Matrices.txt
+15 -rw-r--r-- 1 lmichale wheel 14971 08/26/2010 16:03:03 weightedgraph1.jpg
+ 3 -rw-r--r-- 1 lmichale wheel  2537 08/26/2010 16:03:03 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab1/solution-demo:
+total 9
+4 -rw-r--r-- 1 lmichale wheel 3493 08/26/2010 16:03:03 Graph.class
+1 -rw-r--r-- 1 lmichale wheel   95 08/26/2010 16:03:03 graphdata.txt
+2 -rw-r--r-- 1 lmichale wheel 1436 08/26/2010 16:03:03 Lab1.java
+2 -rw-r--r-- 1 lmichale wheel 1283 08/26/2010 16:03:03 readme.txt
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab1/starter-files:
+total 8
+1 -rw-r--r-- 1 lmichale wheel   95 08/26/2010 16:03:03 graphdata.txt
+4 -rw-r--r-- 1 lmichale wheel 3578 08/26/2010 16:03:03 Graph.java
+2 -rw-r--r-- 1 lmichale wheel 1211 08/26/2010 16:03:03 Lab1.java
+1 -rw-r--r-- 1 lmichale wheel  749 08/26/2010 16:03:03 TrivialGraphTester.txt
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab2:
+total 8
+2 drwxr-xr-x 3 lmichale wheel 2048 08/26/2010 16:03:03 Lab2
+4 -rw-r--r-- 1 lmichale wheel 3535 08/26/2010 16:03:03 lab2.html
+2 -rw-r--r-- 1 lmichale wheel 1454 08/26/2010 16:03:03 Lab2.zip
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab2/Lab2:
+total 2
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 starter-files
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab2/Lab2/starter-files:
+total 6
+1 -rw-r--r-- 1 lmichale wheel  263 08/26/2010 16:03:03 Edge.java
+1 -rw-r--r-- 1 lmichale wheel   95 08/26/2010 16:03:03 graphdata.txt
+4 -rw-r--r-- 1 lmichale wheel 3094 08/26/2010 16:03:03 Graph.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab3:
+total 840
+  2 -rw-r--r-- 1 lmichale wheel   1602 08/26/2010 16:03:03 20-words-output.txt
+  1 -rw-r--r-- 1 lmichale wheel    222 08/26/2010 16:03:03 20-words.txt
+828 -rw-r--r-- 1 lmichale wheel 847209 08/26/2010 16:03:03 input-files.zip
+  3 -rw-r--r-- 1 lmichale wheel   2934 08/26/2010 16:03:03 lab3.html
+  2 -rw-r--r-- 1 lmichale wheel   1646 08/26/2010 16:03:03 scrabble-output.txt
+  4 -rw-r--r-- 1 lmichale wheel   3177 08/26/2010 16:03:03 starter-code.zip
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab4:
+total 9
+2 -rw-r--r-- 1 lmichale wheel 1147 08/26/2010 16:03:03 20-words-prints.txt
+3 -rw-r--r-- 1 lmichale wheel 2090 08/26/2010 16:03:03 lab4.html
+4 -rw-r--r-- 1 lmichale wheel 3748 08/26/2010 16:03:03 Lab4.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab5:
+total 28
+4 -rw-r--r-- 1 lmichale wheel 4006 08/26/2010 16:03:03 foo.txt
+6 -rw-r--r-- 1 lmichale wheel 5191 08/26/2010 16:03:03 lab5.html
+6 -rw-r--r-- 1 lmichale wheel 5612 08/26/2010 16:03:03 stack-traversal.html
+1 -rw-r--r-- 1 lmichale wheel  298 08/26/2010 16:03:03 swamp1-sample-correct-output.txt
+1 -rw-r--r-- 1 lmichale wheel  104 08/26/2010 16:03:03 swamp1.txt
+1 -rw-r--r-- 1 lmichale wheel  412 08/26/2010 16:03:03 swamp2-sample-correct-output.txt
+1 -rw-r--r-- 1 lmichale wheel  168 08/26/2010 16:03:03 swamp2.txt
+5 -rw-r--r-- 1 lmichale wheel 4849 08/26/2010 16:03:03 swamp3-sample-correct-output.txt
+1 -rw-r--r-- 1 lmichale wheel  134 08/26/2010 16:03:03 swamp3.txt
+1 -rw-r--r-- 1 lmichale wheel  188 08/26/2010 16:03:03 swamp4-sample-correct-output.txt
+1 -rw-r--r-- 1 lmichale wheel   56 08/26/2010 16:03:03 swamp4.txt
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab6:
+total 2
+2 -rw-r--r-- 1 lmichale wheel 1614 08/26/2010 16:03:03 lab6.html
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/labs/lab7:
+total 871
+ 11 -rw-r--r-- 1 lmichale wheel  10696 08/26/2010 16:03:03 boggle.jpg
+  6 -rw-r--r-- 1 lmichale wheel   5137 08/26/2010 16:03:03 BoggleStarter2.zip
+  9 -rw-r--r-- 1 lmichale wheel   8509 08/26/2010 16:03:03 lab7.html
+844 -rw-r--r-- 1 lmichale wheel 864183 08/26/2010 16:03:03 lab7.zip
+  1 -rw-r--r-- 1 lmichale wheel    519 08/26/2010 16:03:03 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-1:
+total 43
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:02 Comparable-List-Class
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:02 Finished-List-Class
+15 -rw-r--r-- 1 lmichale wheel 14337 08/26/2010 16:03:02 index.html
+ 4 -rw-r--r-- 1 lmichale wheel  4032 08/26/2010 16:03:02 InsertAtFront.html
+ 1 -rw-r--r-- 1 lmichale wheel   758 08/26/2010 16:03:02 LinkedList.java
+ 1 -rw-r--r-- 1 lmichale wheel   598 08/26/2010 16:03:02 ListElement.java
+ 1 -rw-r--r-- 1 lmichale wheel   370 08/26/2010 16:03:02 ListTester.java
+ 6 -rw-r--r-- 1 lmichale wheel  5136 08/26/2010 16:03:02 outline.html
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:02 PQ-Code-Written-In-Lecture
+ 2 -rw-r--r-- 1 lmichale wheel  1539 08/26/2010 16:03:02 PQ-Code-Written-In-Lecture.zip
+ 2 drwxr-xr-x 2 lmichale wheel  2048 08/26/2010 16:03:02 Stack-Code-Written-In-Lecture
+ 2 -rw-r--r-- 1 lmichale wheel  1426 08/26/2010 16:03:02 Stack-Code-Written-In-Lecture.zip
+ 2 -rw-r--r-- 1 lmichale wheel  1329 08/26/2010 16:03:02 Stack.java
+ 1 -rw-r--r-- 1 lmichale wheel   329 08/26/2010 16:03:02 StackTester.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-1/Comparable-List-Class:
+total 7
+1 -rw-r--r-- 1 lmichale wheel  279 08/26/2010 16:03:02 input.txt
+2 -rw-r--r-- 1 lmichale wheel 1640 08/26/2010 16:03:02 LinkedList.java
+1 -rw-r--r-- 1 lmichale wheel  618 08/26/2010 16:03:02 ListElement.java
+1 -rw-r--r-- 1 lmichale wheel  803 08/26/2010 16:03:02 ListTester.java
+2 -rw-r--r-- 1 lmichale wheel 1552 08/26/2010 16:03:02 Student.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-1/Finished-List-Class:
+total 4
+2 -rw-r--r-- 1 lmichale wheel 1620 08/26/2010 16:03:02 LinkedList.java
+1 -rw-r--r-- 1 lmichale wheel  598 08/26/2010 16:03:02 ListElement.java
+1 -rw-r--r-- 1 lmichale wheel  370 08/26/2010 16:03:02 ListTester.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-1/PQ-Code-Written-In-Lecture:
+total 4
+1 -rw-r--r-- 1 lmichale wheel  673 08/26/2010 16:03:02 ListElement.java
+2 -rw-r--r-- 1 lmichale wheel 1670 08/26/2010 16:03:02 PQ.java
+1 -rw-r--r-- 1 lmichale wheel  499 08/26/2010 16:03:02 PQTester.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-1/Stack-Code-Written-In-Lecture:
+total 4
+1 -rw-r--r-- 1 lmichale wheel  673 08/26/2010 16:03:02 ListElement.java
+2 -rw-r--r-- 1 lmichale wheel 1479 08/26/2010 16:03:02 Stack.java
+1 -rw-r--r-- 1 lmichale wheel  504 08/26/2010 16:03:02 StackTester.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-2:
+total 53
+ 2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:02 Comparable
+ 2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 Comparable-List-Class
+ 2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 Finished-List-Class
+ 1 -rw-r--r-- 1 lmichale wheel  980 08/26/2010 16:03:03 Fraction.class
+ 2 -rw-r--r-- 1 lmichale wheel 1311 08/26/2010 16:03:03 Fraction.java
+10 -rw-r--r-- 1 lmichale wheel 9510 08/26/2010 16:03:03 index.html
+ 4 -rw-r--r-- 1 lmichale wheel 4032 08/26/2010 16:03:03 InsertAtFront.html
+ 2 -rw-r--r-- 1 lmichale wheel 1027 08/26/2010 16:03:03 LinkedList.class
+ 1 -rw-r--r-- 1 lmichale wheel  758 08/26/2010 16:03:03 LinkedList.java
+ 1 -rw-r--r-- 1 lmichale wheel  686 08/26/2010 16:03:03 LinkedListTester.class
+ 1 -rw-r--r-- 1 lmichale wheel  326 08/26/2010 16:03:03 LinkedListTester.java
+ 1 -rw-r--r-- 1 lmichale wheel  668 08/26/2010 16:03:03 ListElement.class
+ 1 -rw-r--r-- 1 lmichale wheel  598 08/26/2010 16:03:03 ListElement.java
+ 1 -rw-r--r-- 1 lmichale wheel  370 08/26/2010 16:03:03 ListTester.java
+ 3 -rw-r--r-- 1 lmichale wheel 2661 08/26/2010 16:03:03 MixingTypes.zip
+ 2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:03 Object
+ 1 -rw-r--r-- 1 lmichale wheel  791 08/26/2010 16:03:03 Point2D.class
+ 1 -rw-r--r-- 1 lmichale wheel  436 08/26/2010 16:03:03 Point2D.java
+ 2 -rw-r--r-- 1 lmichale wheel 1081 08/26/2010 16:03:03 Student.class
+ 1 -rw-r--r-- 1 lmichale wheel  892 08/26/2010 16:03:03 Student.java
+ 3 -rw-r--r-- 1 lmichale wheel 2163 08/26/2010 16:03:03 UsesComparable.zip
+ 9 -rw-r--r-- 1 lmichale wheel 9114 08/26/2010 16:03:03 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-2/Comparable:
+total 7
+1 -rw-r--r-- 1 lmichale wheel 1007 08/26/2010 16:03:02 LinkedList.java
+1 -rw-r--r-- 1 lmichale wheel  450 08/26/2010 16:03:02 LinkedListTester.java
+1 -rw-r--r-- 1 lmichale wheel  773 08/26/2010 16:03:02 ListElement.java
+2 -rw-r--r-- 1 lmichale wheel 1797 08/26/2010 16:03:02 Student.java
+2 -rw-r--r-- 1 lmichale wheel 1848 08/26/2010 16:03:02 WS_FTP.LOG
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-2/Comparable-List-Class:
+total 7
+1 -rw-r--r-- 1 lmichale wheel  279 08/26/2010 16:03:02 input.txt
+2 -rw-r--r-- 1 lmichale wheel 1640 08/26/2010 16:03:02 LinkedList.java
+1 -rw-r--r-- 1 lmichale wheel  618 08/26/2010 16:03:02 ListElement.java
+1 -rw-r--r-- 1 lmichale wheel  803 08/26/2010 16:03:03 ListTester.java
+2 -rw-r--r-- 1 lmichale wheel 1552 08/26/2010 16:03:03 Student.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-2/Finished-List-Class:
+total 4
+2 -rw-r--r-- 1 lmichale wheel 1620 08/26/2010 16:03:03 LinkedList.java
+1 -rw-r--r-- 1 lmichale wheel  598 08/26/2010 16:03:03 ListElement.java
+1 -rw-r--r-- 1 lmichale wheel  370 08/26/2010 16:03:03 ListTester.java
+
+./completed/completed-quiz-1/quiz-1-folder/old-java-stuff/L-Lists-2/Object:
+total 0
+
+./completed/completed-quiz-2:
+total 1
+1 -rw-r--r-- 1 lmichale wheel 550 08/26/2010 16:02:59 quiz-2.txt
+
+./completed/completed-quiz-3:
+total 21
+1 -rw-r--r-- 1 lmichale wheel 1005 08/26/2010 16:03:04 correctOutput-1.txt
+1 -rw-r--r-- 1 lmichale wheel  278 08/26/2010 16:03:04 correctOutput-2.txt
+1 -rw-r--r-- 1 lmichale wheel  385 08/26/2010 16:03:04 correctOutput-3.txt
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:04 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:04 getline.h
+1 -rw-r--r-- 1 lmichale wheel  136 08/26/2010 16:03:04 input-1.txt
+1 -rw-r--r-- 1 lmichale wheel   44 08/26/2010 16:03:04 input-2.txt
+1 -rw-r--r-- 1 lmichale wheel   53 08/26/2010 16:03:04 input-3.txt
+1 -rw-r--r-- 1 lmichale wheel  992 08/26/2010 16:03:04 out1.txt
+1 -rw-r--r-- 1 lmichale wheel  293 08/26/2010 16:03:04 out2.txt
+1 -rw-r--r-- 1 lmichale wheel  383 08/26/2010 16:03:04 out3.txt
+4 -rw-r--r-- 1 lmichale wheel 3263 08/26/2010 16:03:04 quiz-3-main.c
+
+./completed/completed-quiz-4:
+total 7
+7 -rw-r--r-- 1 lmichale wheel 6228 08/26/2010 16:03:04 quiz4.c
+
+./completed/completed-quiz-5:
+total 6
+1 -rw-r--r-- 1 lmichale wheel  110 08/26/2010 16:03:04 inp-1.txt
+1 -rw-r--r-- 1 lmichale wheel   73 08/26/2010 16:03:04 inp-2.txt
+1 -rw-r--r-- 1 lmichale wheel  117 08/26/2010 16:03:04 inp-3.txt
+3 -rw-r--r-- 1 lmichale wheel 2816 08/26/2010 16:03:04 split.c
+
+./completed/completed-quiz-6:
+total 3
+1 -rwxr-xr-x 1 lmichale wheel  423 08/26/2010 16:03:05 quiz6.sh
+2 drwxr-xr-x 7 lmichale wheel 2048 08/26/2010 16:03:05 submissions
+
+./completed/completed-quiz-6/submissions:
+total 17
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 cnarburg
+1 -rw-r--r-- 1 lmichale wheel  354 08/26/2010 16:03:05 cnarburg.c
+2 -rw-r--r-- 1 lmichale wheel 1765 08/26/2010 16:03:05 compilationLog.txt
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 djurado
+1 -rw-r--r-- 1 lmichale wheel  353 08/26/2010 16:03:05 djurado.c
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 fec
+1 -rw-r--r-- 1 lmichale wheel  359 08/26/2010 16:03:05 fec.c
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 msalley
+1 -rw-r--r-- 1 lmichale wheel  353 08/26/2010 16:03:05 msalley.c
+2 drwxr-xr-x 2 lmichale wheel 2048 08/26/2010 16:03:05 tlh
+1 -rw-r--r-- 1 lmichale wheel  351 08/26/2010 16:03:05 tlh.c
+
+./completed/completed-quiz-6/submissions/cnarburg:
+total 9
+1 -rw-r--r-- 1 lmichale wheel  354 08/26/2010 16:03:05 cnarburg.c
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:05 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:05 getline.h
+
+./completed/completed-quiz-6/submissions/djurado:
+total 9
+1 -rw-r--r-- 1 lmichale wheel  353 08/26/2010 16:03:05 djurado.c
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:05 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:05 getline.h
+
+./completed/completed-quiz-6/submissions/fec:
+total 18
+9 -rwxr-xr-x 1 lmichale wheel 9126 08/26/2010 16:03:05 a.out
+1 -rw-r--r-- 1 lmichale wheel  359 08/26/2010 16:03:05 fec.c
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:05 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:05 getline.h
+
+./completed/completed-quiz-6/submissions/msalley:
+total 9
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:05 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:05 getline.h
+1 -rw-r--r-- 1 lmichale wheel  353 08/26/2010 16:03:05 msalley.c
+
+./completed/completed-quiz-6/submissions/tlh:
+total 18
+9 -rwxr-xr-x 1 lmichale wheel 9126 08/26/2010 16:03:05 a.out
+6 -rw-r--r-- 1 lmichale wheel 5297 08/26/2010 16:03:05 getline.c
+2 -rw-r--r-- 1 lmichale wheel 1030 08/26/2010 16:03:05 getline.h
+1 -rw-r--r-- 1 lmichale wheel  351 08/26/2010 16:03:05 tlh.c
