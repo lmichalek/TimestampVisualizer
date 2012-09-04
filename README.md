@@ -4,7 +4,7 @@
 
 In the field of computer forensics, and in particular when working as a computer forensics expert in civil and criminal cases, it is useful to have strategies to detect suspicious behavior. One such strategies involves understanding the typical behavior of a user of a computer system. 
 
-For example, if we track the times that Bob is using a particular system, we may find that he tends to work Monday-Friday, beginning around 8 am until maybe 6 pm. Knowing this is useful, because now if we notice that a few months ago, he was logged in at 3 am on Sunday morning, we will probably have better luck finding suspicious activity during this session.
+For example, if we track the times that Alice uses a particular system, we may find that she tends to work Monday-Friday, beginning around 8 am until maybe 6 pm. Knowing this is useful, because now if we notice that a few months ago, she was logged in at 3 am on Sunday morning, we will probably have better luck finding suspicious activity during this session.
 
 The Timestamp Visualizer is a tool that facilitates finding possible suspicious digital activity. Given a listing of timestamps provided by the user, the Visualizer generates a graphical interface that is easily customized and manipulated by the user. Details are discussed below.
 
@@ -26,13 +26,13 @@ Sample ls dumps are provided with the source to view or use in the GUI. Once a d
 
 ###Multiple file selection
 
-User has the option of selecting one or more input files to graph. If more than one file is selected, the bars are distinguished by different colors.
+The user has the option of selecting one or more input files to graph. If more than one file is selected, the bars are distinguished by different colors.
 
 ![Multiple files](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot2.png)
 
 ###View as single or dual graphs
 
-User can view single graph (as seen above) or two graphs placed one below the other (see below). This can help compare the timestamp based on the various parameters like hours, day of the week, month, year, etc.
+The user can view single graph (as seen above) or two graphs placed one below the other (see below). This can help compare the timestamp based on the various parameters like hours, day of the week, month, year, etc.
 
 ![Dual graph mode](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot3.png)
 
@@ -44,7 +44,7 @@ The menu bar also allows users to render back to the previous graph after zoomin
 
 ###Data grouping
 
-User can group data by year, month, week, day of the week, hour, minute and second. These options can be selected on the side panel or by zooming in the chart. 
+The user can group data by year, month, week, day of the week, hour, minute and second. These options can be selected on the side panel or by zooming in the chart. 
 
 By using the side panel, users can also select what specific portions of the dataset to include. For instance, The user can opt to view data by month, but include only the years 2006 and 2009. The side panel selections for this particular example is below:
 
