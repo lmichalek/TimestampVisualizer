@@ -20,7 +20,7 @@ ls -Rls --time-style=+%m/%d/%Y\ %T
 
 Sample ls dumps are provided with the source to view or use in the GUI. Once a dump is provided by the user, the timestamps are displayed in a histogram:
 
-![Simple graph](images/screenshot1.png)
+![Simple graph](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot1.png)
 
 ##Features
 
@@ -28,13 +28,13 @@ Sample ls dumps are provided with the source to view or use in the GUI. Once a d
 
 User has the option of selecting one or more input files to graph. If more than one file is selected, the bars are distinguished by different colors.
 
-![Multiple files](images/screenshot2.png)
+![Multiple files](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot2.png)
 
 ###View as single or dual graphs
 
 User can view single graph (as seen above) or two graphs placed one below the other (see below). This can help compare the timestamp based on the various parameters like hours, day of the week, month, year, etc.
 
-![Dual graph mode](images/screenshot3.png)
+![Dual graph mode](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot3.png)
 
 ###Interactive graph
 
@@ -48,7 +48,7 @@ User can group data by year, month, week, day of the week, hour, minute and seco
 
 By using the side panel, users can also select what specific portions of the dataset to include. For instance, The user can opt to view data by month, but include only the years 2006 and 2009. The side panel selections for this particular example is below:
 
-![Data grouping](images/screenshot4.png)
+![Data grouping](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot4.png)
 
 ###Customize graph format and colors
 
@@ -62,7 +62,7 @@ The export option in the menu bar gives the option of exporting the chart as eit
 
 Aids the user in general ways, like getting started with file import. Also provides some regex help.
 
-![Help menu](images/screenshot5.png)
+![Help menu](https://raw.github.com/lmichale/TimestampVisualizer/master/images/screenshot5.png)
 
 ##Contributors
 
