@@ -12,11 +12,7 @@ The Timestamp Visualizer is a tool that facilitates finding possible suspicious 
 
 A GUI designed to ease visualizing timestamps. User is prompted for a text file containing timestamp data. Correct timestamp format is obtained by executing:
 
-ls -ls --time-style=+%m/%d/%Y\ %T
-
-or
-
-ls -Rls --time-style=+%m/%d/%Y\ %T
+```ls -ls --time-style=+%m/%d/%Y\ %T``` or ```ls -Rls --time-style=+%m/%d/%Y\ %T```
 
 Sample ls dumps are provided with the source to view or use in the GUI. Once a dump is provided by the user, the timestamps are displayed in a histogram:
 
