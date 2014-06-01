@@ -2,7 +2,7 @@
 
 ##Overview
 
-In the field of computer forensics, and in particular when working as a computer forensics expert in civil and criminal cases, it is useful to have strategies to detect suspicious behavior. One such strategies involves understanding the typical behavior of a user of a computer system. 
+In the field of computer forensics, and in particular when working as a computer forensics expert in civil and criminal cases, it is useful to have strategies to detect suspicious behavior. One such strategy involves understanding the typical behavior of a user of a computer system. 
 
 For example, if we track the times that Alice uses a particular system, we may find that she tends to work Monday-Friday, beginning around 8 am until maybe 6 pm. Knowing this is useful, because now if we notice that a few months ago, she was logged in at 3 am on Sunday morning, we will probably have better luck finding suspicious activity during this session.
 
